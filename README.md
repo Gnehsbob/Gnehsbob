@@ -1,8 +1,10 @@
 ## Hi i'm Kgosi
  Projects
-- [**Automated CV Framework**](https://github.com/Gnehsbob/cv_generator) - A Python/YAML engine for CI/CD resume generation.
-- [**Kgosi_View Cluster**](https://github.com/Gnehsbob/other-repo) - Infrastructure-as-Code for my 3-node KVM lab.
-
+- [**Automated CV Framework**](https://github.com/Gnehsbob/yaml-resume-builder..git) - A Python/YAML engine for CI/CD resume generation.
+- [**Kgosi_View Cluster**](https://github.com/Gnehsbob/other-repo) -
+Infrastructure-as-Code for my 3-node KVM lab.
+- [**unified-game-orchestrator**](https://github.com/Gnehsbob/unified-game-orchestrator.git) - Automates kernel-level performance tuning and environment orchestration for high-demand applications.
+  
 ## Stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
