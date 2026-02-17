@@ -3,12 +3,12 @@
 - [**Automated CV Framework**](https://github.com/Gnehsbob/cv_generator) - A Python/YAML engine for CI/CD resume generation.
 - [**Kgosi_View Cluster**](https://github.com/Gnehsbob/other-repo) - Infrastructure-as-Code for my 3-node KVM lab.
 
-## 🛠 Tech Stack
+## Stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-## 📊 GitHub Stats
+## Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 <!--
 **Gnehsbob/Gnehsbob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
