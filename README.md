@@ -1,4 +1,4 @@
-## Hi i'm kgosi
+## Hi i'm Kgosi
  Projects
 - [**Automated CV Framework**](https://github.com/Gnehsbob/cv_generator) - A Python/YAML engine for CI/CD resume generation.
 - [**Kgosi_View Cluster**](https://github.com/Gnehsbob/other-repo) - Infrastructure-as-Code for my 3-node KVM lab.
