@@ -11,7 +11,7 @@ Infrastructure-as-Code for my 3-node KVM lab.
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ## Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 <!--
 **Gnehsbob/Gnehsbob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
