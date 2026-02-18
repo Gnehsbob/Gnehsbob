@@ -1,8 +1,7 @@
 ## Welcome
  Projects
 - [**Automated CV Framework**](https://github.com/Gnehsbob/yaml-resume-builder..git) - A Python/YAML engine for CI/CD resume generation.
-- [**Kgosi_View Cluster**](https://github.com/Gnehsbob/other-repo) -
-Infrastructure-as-Code for my 3-node KVM lab.
+- [**Kgosi_View_Financial-_Engine**](https://github.com/Gnehsbob/Kgosi_View_Financial-_Engine.git) -Financial Backtesting System.
 - [**unified-game-orchestrator**](https://github.com/Gnehsbob/unified-game-orchestrator.git) - Automates kernel-level performance tuning and environment orchestration for high-demand applications.
   
 ## Stack
