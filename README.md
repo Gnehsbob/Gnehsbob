@@ -4,7 +4,7 @@
 - [**Kgosi_View_Financial-_Engine**](https://github.com/Gnehsbob/Kgosi_View_Financial-_Engine.git) -Financial Backtesting System.
 - [**unified-game-orchestrator**](https://github.com/Gnehsbob/unified-game-orchestrator.git) - Automates kernel-level performance tuning and environment orchestration for high-demand applications.
 - [**HCIN6222_Best-Spot_POE**](https://github.com/Gnehsbob/best-spot.git) - A localized, self-hosted network intelligence platform built to oversee campus Wi-Fi environments.
-- [**Gauteng Transit Engine**](https://github.com/Gnehsbob/map-app.git) - hardware-accelerated 3D transit and cost calculator for Gauteng, South Africa.
+- [**Gauteng Transit Engine**](https://github.com/Gnehsbob/map-app.git) - A GPU-accelerated spatial computing platform designed for Gauteng’s transit network.
   
 ## Stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
