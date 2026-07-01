@@ -1,5 +1,6 @@
 ## Welcome
  Projects
+- [**SRE-toolkit**](https://github.com/Gnehsbob/SRE-toolkit.git) - Tailored Bash and Python automation framework engineered for personal hybrid-cloud orchestration, telemetry monitoring, and system optimization.
 - [**HCIN6222_Best-Spot_POE**](https://github.com/Gnehsbob/best-spot.git) - A localized, self-hosted network intelligence platform built to oversee campus Wi-Fi environments.
   
 -  [**Automated CV Framework**](https://github.com/Gnehsbob/yaml-resume-builder.git) - A Python/YAML engine for CI/CD resume generation.
