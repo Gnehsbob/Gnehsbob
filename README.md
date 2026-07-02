@@ -14,4 +14,4 @@
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ## Stats
-![GitHub Stats](https://vercel.app)
+![GitHub Stats](https://github-readme-stats-eight-lake-89.vercel.app/api?username=Gnehsbob&show_icons=true&theme=radical)
