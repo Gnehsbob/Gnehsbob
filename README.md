@@ -4,7 +4,7 @@
 - [**HCIN6222_Best-Spot_POE**](https://github.com/Gnehsbob/best-spot.git) - A localized, self-hosted network intelligence platform built to oversee campus Wi-Fi environments.
   
 -  [**Automated CV Framework**](https://github.com/Gnehsbob/yaml-resume-builder..git) - A Python/YAML engine for CI/CD resume generation.
-- [**Kgosi_View_Financial-_Engine**](https://github.com/Gnehsbob/Kgosi_View_Financial-_Engine.git) -Financial Backtesting System.
+- [**Financial Backtesting System**](https://github.com/Gnehsbob/Kgosi_View_Financial-_Engine.git) -An event-driven simulation engine built to audit automated algorithmic logic over high-density historical data.
 - [**unified-game-orchestrator**](https://github.com/Gnehsbob/unified-game-orchestrator.git) - Automates kernel-level performance tuning and environment orchestration for high-demand applications.
 - [**Gauteng Transit Engine**](https://github.com/Gnehsbob/map-app.git) - A GPU-accelerated spatial computing platform designed for Gauteng’s transit network.
   
