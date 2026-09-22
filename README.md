@@ -12,7 +12,7 @@
 ![Linux(](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![KVM](https://shields.io)
+![KVM](https://img.shields.io/badge/KVM-E24A35?style=for-the-badge&logo=linux&logoColor=white)
 ![Docker](https://shields.io)
 ![Dynamic YAML Badge](https://img.shields.io/badge/dynamic/yaml)
 ## Stats
