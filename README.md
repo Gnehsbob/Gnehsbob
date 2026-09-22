@@ -13,7 +13,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![KVM](https://img.shields.io/badge/KVM-E24A35?style=for-the-badge&logo=linux&logoColor=white)
-![Docker](https://shields.io)
-![Dynamic YAML Badge](https://img.shields.io/badge/dynamic/yaml)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 ## Stats
 ![GitHub Stats](https://github-readme-stats-eight-lake-89.vercel.app/api?username=Gnehsbob&show_icons=true&theme=radical)
