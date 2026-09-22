@@ -2,16 +2,18 @@
  Projects
 - [**SRE-toolkit**](https://github.com/Gnehsbob/SRE-toolkit.git) - Bash and Python automation framework engineered for personal hybrid-cloud orchestration, telemetry monitoring, and system optimization.
 - [**HCIN6222_Best-Spot_POE**](https://github.com/Gnehsbob/best-spot.git) - A localized, self-hosted network intelligence platform built to oversee campus Wi-Fi environments.
-  
+- [**erpnext-lab**](https://github.com/Gnehsbob/erpnext-lab) - Skip textbook assumptions by testing core MRP, BOM, and ledger mechanics inside a live, hands-on ERPNext environment. Shout out to ERPNEXT!
 -  [**Automated CV Framework**](https://github.com/Gnehsbob/yaml-resume-builder..git) - A Python/YAML engine for CI/CD resume generation.
 - [**Financial Backtesting System**](https://github.com/Gnehsbob/Kgosi_View_Financial-_Engine.git) -An event-driven simulation engine built to audit automated algorithmic logic over high-density historical data.
 - [**unified-game-orchestrator**](https://github.com/Gnehsbob/unified-game-orchestrator.git) - Automates kernel-level performance tuning and environment orchestration for high-demand applications.
 - [**Gauteng Transit Engine**](https://github.com/Gnehsbob/map-app.git) - A GPU-accelerated spatial computing platform designed for Gauteng’s transit network.
   
 ## Stack
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux(](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
+![KVM](https://shields.io)
+![Docker](https://shields.io)
+![YAML](https://shields.io)
 ## Stats
 ![GitHub Stats](https://github-readme-stats-eight-lake-89.vercel.app/api?username=Gnehsbob&show_icons=true&theme=radical)
