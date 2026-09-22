@@ -14,6 +14,6 @@
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![KVM](https://shields.io)
 ![Docker](https://shields.io)
-![YAML[](https://img.shields.io/badge/dynamic/yaml)
+![YAML](https://img.shields.io/badge/dynamic/yaml)
 ## Stats
 ![GitHub Stats](https://github-readme-stats-eight-lake-89.vercel.app/api?username=Gnehsbob&show_icons=true&theme=radical)
